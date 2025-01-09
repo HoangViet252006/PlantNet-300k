@@ -13,7 +13,7 @@
 | ├── images
 | | ├── train
 | | ├── val
-| | ├── test
+| | └──  test
 │ ├── plantnet300K_metadata.json
 │ └── plantnet300K_species_id_2_name.json
 ├── tensorboard
