@@ -11,6 +11,9 @@
 ├── model
 ├── plantnet_300K
 | ├── images
+| | ├── train
+| | ├── val
+| | ├── test
 │ ├── plantnet300K_metadata.json
 │ └── plantnet300K_species_id_2_name.json
 ├── tensorboard
